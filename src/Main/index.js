@@ -1,6 +1,5 @@
 import React from 'react';
-import AuthNavigator from 'src/screens/authScreens/authNavigator';
-import AppNavigator from 'src/screens/appNavigator';
+import AppNavigator from 'src/Screens/appNavigator';
 
 const Main = () => {
   return <AppNavigator />;
